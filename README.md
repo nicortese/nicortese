@@ -6,7 +6,7 @@
     my name is Nicolas Cortese
 </h1>
 <h3 align="center">
-    I'm a 29 years old Full Stack Developer from Buenos Aires, Argentina.
+    I'm a Full Stack Developer from Buenos Aires, Argentina.
 </h3>
 <h3 align="center">
     My skills:
