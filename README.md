@@ -72,7 +72,7 @@
     My Portfolio:
 </h3>
 <div align="center">
-  <a target="_blank" href="https://mjusbiche.netlify.app/">Nicolas Cortese - Dev</a>
+  <a target="_blank" href="https://ncortese.netlify.app/">Nicolas Cortese - Dev</a>
 </div>
 <h3 align="center">
     My projects:
